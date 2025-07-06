@@ -1,7 +1,7 @@
 # Database design for a Pharmaceutical System
 ## Project Overview
 
-This repository delivers a **fully normalized Oracle SQL and PL/SQL database** for NOVA, a fictional pharmaceutical retail chain. It models and manages core operations for:
+This repository delivers a **fully normalized PostgreSQL and PL/SQL database**. It models and manages core operations for:
 
 - Pharmacies  
 - Pharmaceutical manufacturers  
@@ -46,3 +46,5 @@ All business workflows are captured in a relational schema and enforced through 
 - **Modular design** allows easy addition of features such as user roles, GUI front-ends, or audit logging.  
 - **Adheres to relational database best practices**, ensuring maintainable, performant, and reliable data management.  
 
+## Snapshot of ER diagram
+  ![image](https://github.com/user-attachments/assets/5d3b7ade-9b58-4a8c-a77f-4b248cf0b8df)
